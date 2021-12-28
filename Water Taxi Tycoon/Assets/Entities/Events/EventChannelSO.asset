@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cdba090d13eef84982a866a87f32bd9, type: 3}
+  m_Name: EventChannelSO
+  m_EditorClassIdentifier: 
+  CustomerChannel: {fileID: 11400000, guid: 499991d06aceb324486659bc8f024698, type: 2}
+  TriggerChannel: {fileID: 11400000, guid: 09fdb75397e27774496e8315d8cb441e, type: 2}
+  GUIChannel: {fileID: 11400000, guid: 240cb766de610f5409ca31ae2f921dcf, type: 2}
+  SeatChannel: {fileID: 11400000, guid: f3d7e29a62cf6b8488acbc06e0897d49, type: 2}

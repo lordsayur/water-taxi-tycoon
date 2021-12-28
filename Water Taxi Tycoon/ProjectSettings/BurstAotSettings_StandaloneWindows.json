@@ -1,7 +1,7 @@
 {
   "MonoBehaviour": {
-    "Version": 3,
-    "EnableBurstCompilation": true,
+    "Version": 4,
+    "EnableBurstCompilation": false,
     "EnableOptimisations": true,
     "EnableSafetyChecks": false,
     "EnableDebugInAllBuilds": false,
@@ -11,6 +11,7 @@
     "CpuMinTargetX64": 0,
     "CpuMaxTargetX64": 0,
     "CpuTargetsX32": 6,
-    "CpuTargetsX64": 72
+    "CpuTargetsX64": 72,
+    "OptimizeFor": 0
   }
 }

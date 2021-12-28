@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 969fc9fa220adca48ae3fed2ee8d5d96, type: 3}
+  m_Name: Customer Manager
+  m_EditorClassIdentifier: 
+  customerCount: 5
+  jettyAssignmentInterval: 1
+  customerTypeList:
+  - {fileID: 11400000, guid: 38d7c14e4631f9a409fbd9413293f76b, type: 2}
+  - {fileID: 11400000, guid: 7fb42e0002054ea40b14cae365e9136d, type: 2}
+  customerList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
